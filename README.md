@@ -2,11 +2,11 @@
 
 With this program you can check the date and time at that moment 😴
 
-![Screenshot (13)](https://github.com/user-attachments/assets/d1a2431d-a85d-49dd-a372-ea55cc05f96e)
-![Screenshot (14)](https://github.com/user-attachments/assets/c88b2624-8072-4a69-a235-cd8c48cb4e21)
-![Screenshot (15)](https://github.com/user-attachments/assets/de1e49b6-a663-4d40-9f31-88efeac380c0)
-![Screenshot (16)](https://github.com/user-attachments/assets/ec785579-8649-430e-8ffd-fef78752f48c)
-![Screenshot (12)](https://github.com/user-attachments/assets/c83033e8-511b-4b3f-ab29-75df3649b0fa)
+![Image](https://github.com/user-attachments/assets/7abfc13f-b5d9-446f-bc53-8a2e9277fe46)
+![Image](https://github.com/user-attachments/assets/3d9f361b-887b-4eee-9e94-37798828ad15)
+![Image](https://github.com/user-attachments/assets/afc868a3-c05d-44de-b0f3-2624e23ca63a)
+![Image](https://github.com/user-attachments/assets/88df85d0-7bad-49f9-bd4c-efa45b92e6d9)
+![Image](https://github.com/user-attachments/assets/cb1dff02-0545-411a-a4eb-d8c134eec984)
 
 
 - [Demo Project](https://shayanmnik.github.io/Clock/)
